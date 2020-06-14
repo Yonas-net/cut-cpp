@@ -1,3 +1,5 @@
+// uniq | (c) 2020 Icinga GmbH | GPLv2+
+
 #include <iostream>
 #include <string>
 #include <vector>
