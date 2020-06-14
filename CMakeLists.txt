@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(cut-cpp)
+project(uniq-cpp)
 set(CMAKE_CXX_STANDARD 20)
 set(BOOST_MIN_VERSION "1.66.0")
 
