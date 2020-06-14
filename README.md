@@ -4,7 +4,7 @@
 UNIQ-CPP is a program developed by us right from the start and is an imitation of the standard uniq command. This 
 program is only for learning and testing purposes and is therefore not suitable for larger projects.
 
-Learn more about what parameters mean and what they are for, see the bunch of uniq options below.
+Learn more about what the parameters mean and what they are for, see the bunch of uniq options below.
 ### Parameters
 
 | short Options | long Options      |                 Usage |
