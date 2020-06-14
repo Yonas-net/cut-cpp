@@ -124,9 +124,8 @@ void countRepeatedValue(std::vector<std::string> &vector) {
         std::cout << "\t" << item.second << " " << item.first << std::endl;
     }
 
-    std::set<std::string> s(vector.begin(), vector.end());
-    vector.assign(s.begin(), s.end());
-    for (const auto &item : vector) {
+    std::set<std::string> unique(vector.begin(), vector.end());
+    for (const auto &item : unique) {
         std::cout << "\t" << 1 << " " << item << std::endl;
     }
 }
